@@ -7,7 +7,8 @@ Fever - A Workshop production was a play that reached 86% of its goal in 28 days
 
 Taking Louise's campaign in mind, it could be deduced that the campaign did not reach its goal. When taking into consideration the duration of the campaign from its launch date to the deadline, a pivot table was created to find campaigns that "came close" (between the range of 75% to 95% of its goal met) - to find that exactly 3 campaigns fit into the same outcome. Interestingly enough, they all fit within the time frame of 28-30 days (See pivot table). To come next is to tackle whether the length determines success or failure.
 
-With this in mind, outcomes based on launch date was created. 
+With this in mind, outcomes based on launch date was created.
+
 ![](OutcomesBasedonLaunchDate.png)
 
 Based on the results a few conclusions become apparent:
@@ -16,6 +17,7 @@ Based on the results a few conclusions become apparent:
 3) If a Kickstarter campaign is started in October, it has a higher chance of failure in comparison to all other months. Next highest likely month is May, but in proportion to successful campaigns the percentage of failure is more pronounced in October. 
 
 Outcome based on goals show that not only the outcome is affected by duration but by goals as well. Looking at the line graph of the trend, the following points could be observed:
+
 ![](OutcomesBasedonGoals.png)
 
 1) Campaigns whose goals were greater than $50,000 had a high percentage of not succeeding. At this point in the graph, percentage of success was at an all time low and percentage of failure and cancellation at an all time high. 
