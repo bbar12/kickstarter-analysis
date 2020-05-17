@@ -27,9 +27,9 @@ Outcome based on goals show that not only the outcome is affected by duration bu
 
 The question of whether the length of a campaign contributes to success or failure is a more complex one than this analysis can provide. Considering the two graphs provided, the Fever play campaign's goal was $2885 and $2485 were pledged. If the fact that the campaign was launched June 13th was added it indicates this campaign was in the optimal goal and launch date range to meet its goal (but it still did not happen, why is that?). Questions like these could uncover trends and formulate more questions along the way and in turn create more ways to look at a specific set of data differently. Some improved data metrics that could answer more questions are:
 
-What are the most common campaign durations and what were their launch dates?
-How do launch dates and campaign durations fare in terms of campaign goals?
-How many campaigns came close to reaching their goals, what were their respective durations and launch dates?
+a. What are the most common campaign durations and what were their launch dates?
+b. How do launch dates and campaign durations fare in terms of campaign goals?
+c. How many campaigns came close to reaching their goals, what were their respective durations and launch dates?
 These could be captured within pivot tables and then plotted on line graphs and clustered bar graphs for comparison and visualization.
 
 In conclusion, even though the Fever play was not successful it is important to look at the Kickstarter data set and draw further conclusions that could help plan future Kickstarter campaigns as it has been determined success is not simply limited to goals and launch dates alone. 
