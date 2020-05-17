@@ -32,4 +32,4 @@ b. How do launch dates and campaign durations fare in terms of campaign goals?
 c. How many campaigns came close to reaching their goals, what were their respective durations and launch dates?
 These could be captured within pivot tables and then plotted on line graphs and clustered bar graphs for comparison and visualization.
 
-In conclusion, even though the Fever play was not successful it is important to look at the Kickstarter data set and draw further conclusions that could help plan future Kickstarter campaigns as it has been determined success is not simply limited to goals and launch dates alone. 
+Despite the Fever play campaign not being successful, it is important to look at the Kickstarter data set and draw further conclusions that could help plan future Kickstarter campaigns as it has been determined success is not simply limited to goals and launch dates alone. The data needs further investigation to be able to answer questions that relate different aspects of the data to each other to form a final argument. 
