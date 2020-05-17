@@ -27,10 +27,4 @@ Outcome based on goals show that not only the outcome is affected by duration bu
 
 The question of whether the length of a campaign contributes to success or failure is a more complex one. Even analyzing our general trends for these two graphs, the Fever play campaign's goal was $2885 and $2485 were pledged. If the fact that the campaign was launched June 13th was added it indicates this campaign was in the optimal goal and launch date range to meet its goal (but it still did not happen, why is that?). Questions like these could uncover trends and formulate more questions along the way and in turn create more ways to look at a specific set of data differently. 
 
-For example, based on the curiosity of what would be the optimal campaign length, a line chart was created to determine whether outcome percentages change if the duration is taken into consideration. 
-
-![](OutcomesBasedonDuration.png)
-
-Based on this bar chart that accounts for duration of the campaign vs. how successful they can be, it is apparent that a duration of 16 days to 30 days is optimal for meeting a campaign goal. This could also be emphasized and looked at in terms of when they were created to really see the effect of launch dates, but in general this time frame largely dictates the campaign's outlook as the success, failed and cancellation trends become most pronounced in this period.
-
-In conclusion, even though the Fever play was not successful it serves as a form of improvement for looking at the Kickstarter data set and draw further conclusions that could add to campaign success. Finally, it is beneficial to obtain these trends to be able to see not only how Louise's play fares but also how to properly set up future Kickstarter campaigns for success. 
+In conclusion, even though the Fever play was not successful it important to look at the Kickstarter data set and draw further conclusions that could add to campaign success. Finally, it is beneficial to obtain these trends to be able to see not only how Louise's play fares but also how to properly set up future Kickstarter campaigns for success. 
